@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey there 👋
+### I am Revanth Rangineni, and I am a Computer Science student at Rutgers University
 <!--
 **revr47/revr47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
