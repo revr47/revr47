@@ -1,5 +1,6 @@
 ### Hey there 👋
  I am Revanth Rangineni, and I am a Computer Science student at Rutgers University
+  I am currently a junior, who has previously interned at Benjamin Moore as a Software Engineer Intern
 <!--
 **revr47/revr47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
